@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about **Web Development & Data Analytics**
+- 💻 Passionate about **Web Development & Data Analytics & ML**
 - 🌱 Currently learning **React.js, Node.js, Express**
 - 🧠 Strong in **HTML, CSS, JavaScript, C, C++ & Advanced Python**
 - 📊 Recently built an **End-to-End Automated Data Analytics Pipeline and Hospital Management System**
